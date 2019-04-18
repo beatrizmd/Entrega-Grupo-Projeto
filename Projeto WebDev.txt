@@ -1,0 +1,45 @@
+﻿PROJETO WEBDEV
+
+
+INTEGRANTES DO GRUPO:
+Amanda Borges da Fonseca                 n° USP: 10725592
+Beatriz Magalhães Dias                   n° USP: 10286190
+Gabriela Ferreira da Silva Marcondes     n° USP: 9911260
+Luiza de Campos Tempobono                n° USP: 10407808
+
+
+IDEIA DE PROJETO 01: SELECT ÓCULOS 
+* Tema do projeto 
+Revenda /troca de armações de óculos usadas
+
+
+* Descrição do projeto
+O projeto consiste no desenvolvimento de uma plataforma web (ou aplicativo) para venda ou troca de armações de óculos usadas. Tendo em vista que periodicamente várias pessoas trocam de óculos e que, normalmente, as armações antigas ficam sem uso, o site permitiria que essas armações fossem colocadas à venda e por serem usadas são mais baratas, o que permitiria que pessoas com menor renda adquirissem. 
+
+
+O site terá duas opções de cadastro, a primeira para quem quer anunciar uma armação e a segunda para quem quer comprar uma. Além disso, o comprador teria facilidade na busca do modelo por meio de filtros, como por exemplo, busca pela cor, pelo formato, pelo tamanho, etc. 
+
+
+* Objetivo do projeto
+Esse projeto objetiva a venda por preços acessíveis de armações de óculos usadas, com foco principalmente na população de baixa renda.
+
+
+IDEIA DE PROJETO 02: NOME X
+* Tema do projeto
+Conexão entre pessoas da mesma região 
+
+
+* Descrição do projeto
+O projeto baseia-se no desenvolvimento de uma plataforma web (ou aplicativo) que conecta pessoas da mesma região (cidade ou bairro) e que tenham interesse em prestar serviços voluntários ou que estejam buscando esses serviços.
+As pessoas precisam obrigatoriamente se inscrever preenchendo um cadastro com os seus dados e então terá duas opções: oferecer um serviço voluntário ou buscar um serviço voluntário de alguém que também está cadastrado no site. Esses serviços são categorizados de acordo com a faixa etária de interesse, pode ser desde acompanhar um idoso no médico, ajudar na alfabetização de alguma criança ou auxiliar alguém com deficiência física em alguma tarefa que a pessoa esteja precisando.
+
+
+* Objetivo do projeto
+O objetivo do projeto é conectar pessoas que vivem na mesma região que tenham interesse em prestar serviços voluntários com pessoas que estejam buscando esses serviços. Portanto, auxilia pessoas que precisam desses serviços mas não podem pagar por eles, pessoas que querem prestar serviços voluntários mas não sabiam como começar, bem como unir pessoas com os mesmos propósitos.
+
+
+CONTA TRELLO DAS INTEGRANTES:
+@luizatempobono
+@beatrizmd
+@gabrielamarcondes2
+@amandaborgesdafonseca
